@@ -18,7 +18,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
 body {
   font-family: Helvetica, sans-serif;
 }
